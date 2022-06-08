@@ -1,3 +1,3 @@
-# Samsung-R&D-advance-coding-problem-solved
+# Samsung R&D advance test coding problem solved
 
 feel free to contribute 
